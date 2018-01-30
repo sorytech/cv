@@ -1,0 +1,135 @@
+body{
+	background-image: url(background.jpg);
+}
+.page{
+	width: 850px;
+	margin: auto;
+	font-family: 'Source sans Pro', Calibri, Tahoma, sans-serif;
+	font-size: 16px;
+	border: 5px solid #3388BB;
+	border-radius: 5px;
+	padding: 20px;
+	padding-left: 5px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	box-shadow: 2px 3px 4px black;
+	
+	
+}
+.infoperso{
+	float: left;
+
+}
+.cursus.{
+	margin-left: 150px;
+}
+.section{
+	margin-bottom: 70px;
+	text-align: justify;
+	margin-left: 5px;
+}
+.sec-gauche{
+	float: left;
+	font-weight: bold;
+	font-size: 18px;
+	margin-left: 5px;	
+}
+.sec-droite{
+	margin-left: 150px;
+	margin-top: 35px;
+	margin-left: 5px;
+}
+.nom{
+	text-align: center;
+	font-size: 20px;
+}
+h2{
+	font-size: 20px;
+	color: #000000;
+	background: #3388BB;
+	border-bottom: 3px solid #3388BB;
+	margin-left: 270px;
+}
+table {
+    border: 3px solid #3388BB;
+}
+h3{
+	font-size: 20px;
+	color: #000000;
+	background: #3388BB;
+	border-bottom: 3px solid #3388BB;
+	text-align: center;
+	
+}
+img {
+  
+    width: 180px;
+    height: 180px;
+    margin-left: 40px;
+   	border: 2px solid #3388BB;
+   	border-radius: 5px;
+
+}
+.prenom{
+	text-align: center;
+	font-size: 20px;
+}
+.titre{
+	font-weight: bold;
+	font-size: 18px;
+}
+#annee_formation p{
+	margin-bottom: 55px;
+	margin-right: 50px;
+
+}
+#annee_formation_l1 p{
+	margin-top: 50px;
+}
+#annee_experience p{
+	margin-bottom: 90px;
+	margin-right: 30px;
+}
+#annee_experience_domicile p{
+	margin-bottom: 55px;
+	
+}
+#annee_experience_money p{
+	margin-bottom: 20px;
+
+}
+#annee_experience_money p{
+	margin-bottom: 75px;
+
+}
+#annee_experience_univers p{
+	margin-bottom: 75px;
+	margin-right: 50px;
+}
+#annee_projet p{
+	margin-bottom: 70px;
+	margin-right: 50px;
+
+}
+.foot{
+	text-align: center;
+	margin-top: 40px;
+	font-weight: bold;
+}
+a:hover{
+	color: black;
+}
+.association{
+	font-weight: bold;
+}
+.cinema{
+	font-weight: bold;
+}
+.anglais{
+	font-weight: bold;
+}
+.français{
+	font-weight: bold;
+}
+
+
